@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Kiki1643.github.io/sitemap.xml
