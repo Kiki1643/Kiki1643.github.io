@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bnl.gov/physics/ntg/'>Brookhaven National Laboratory</a>br<a href='https://phy.ccnu.edu.cn/'>Central China Normal University</a>
+subtitle: <a href='https://www.bnl.gov/physics/ntg/'>Brookhaven National Laboratory</a>/<a href='https://phy.ccnu.edu.cn/'>Central China Normal University</a>
 
 profile:
   align: right
-  image: ava.jpg
+  image: kiki.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Brookhaven National Laboratory</p>
     <p>Physics Department</p>
-    <p>P.O. Box 5000</p>
-    <p>Upton, NY 11973-5000</p>
+    <p>Nuclear Theory Group</p>
+    <p>Building 510A</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
