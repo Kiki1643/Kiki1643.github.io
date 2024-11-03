@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="publications" markdown="1">
 
 For more details, you can check my [INSPIRE](https://inspirehep.net/authors/1908133).
 
