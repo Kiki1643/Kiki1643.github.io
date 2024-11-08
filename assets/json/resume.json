@@ -78,6 +78,24 @@
       "publisher": "Heng-Tong Ding, Xiang Gao, Andrew D Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
       "releaseDate": "2023-08-01",
       "url": "https://inspirehep.net/files/222f121547a65cddfdabfd26eb4f8a67"
+    },
+    {
+      "name": "Three-dimensional Imaging of Pion using Lattice QCD: Generalized Parton Distributions",
+      "publisher": "Ding, Heng-Tong, Gao, Xiang, Mukherjee, Swagato, Petreczky, Peter, Shi, Qi, Syritsyn, Sergey, Zhao, Yong",
+      "releaseDate": "2024-07-03",
+      "url": "https://arxiv.org/abs/2407.03516"
+    },
+    {
+      "name": "Lattice QCD calculation of the pion generalized parton distribution",
+      "publisher": "Ding, Heng-Tong, Gao, Xiang, Mukherjee, Swagato, Petreczky, Peter, Shi, Qi, Syritsyn, Sergey, Zhao, Yong",
+      "releaseDate": "2024-06-01",
+      "url": "https://pos.sissa.it/456/024/pdf"
+    },
+    {
+      "name": "QCD Predictions for Meson Electromagnetic Form Factors at High Momenta: Testing Factorization in Exclusive Processes",
+      "publisher": "Heng-Tong Ding, Xiang Gao, Andrew D. Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Rui Zhang, Yong Zhao",
+      "releaseDate": "2024-04-01",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.181902"
     }
   ],
   "skills": [
@@ -135,16 +153,6 @@
         "Lattice Quantum Chromodynamics",
         "Quantum Information"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
