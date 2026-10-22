@@ -152,7 +152,7 @@
     }
   ],
   "languages": [
-    {"language": "Chinese", "fluency": "Native"},
-    {"language": "English", "fluency": "Fluent"}
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent" }
   ]
 }
