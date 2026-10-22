@@ -27,5 +27,5 @@ In my leisure time, I enjoy:
 
 - 🎤 **Singing** and 💃 **Dancing**
 - 👫 Hangout with friends
-- ✈️ Traveling with my boyfriend
+- ✈️ Traveling with my husband
 - 🏊 Swimming
