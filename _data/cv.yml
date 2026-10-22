@@ -1,0 +1,44 @@
+# Fallback CV data. The live CV page uses assets/json/resume.json.
+- title: Academic Appointments
+  type: time_table
+  contents:
+    - title: Postdoctoral Scholar, Department of Physics
+      institution: Kent State University, Kent, Ohio
+      year: 2025–present
+    - title: Visitor, Physics Department
+      institution: Brookhaven National Laboratory, Upton, New York
+      year: 2022–2025
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Physics
+      institution: Central China Normal University, Wuhan, China
+      year: 2021–2025
+    - title: M.S. in Physics
+      institution: Central China Normal University, Wuhan, China
+      year: 2018–2021
+    - title: B.S. in Physics
+      institution: Northeast Normal University, Changchun, China
+      year: 2014–2018
+
+- title: Computing Resource Awards (Principal Investigator)
+  type: time_table
+  contents:
+    - title: Nucleon Generalized Parton Distributions from lattice QCD at Physical Masses
+      institution: NERSC Allocation Year 2026, DOE Mission Science Allocation Award
+      year: 2026
+      description:
+        - 63,000 GPU node hours
+    - title: Computing Pion Generalized Parton Distributions at Non-zero Skewness
+      institution: NERSC Allocation Year 2025, DOE Mission Science Allocation Award
+      year: 2025
+      description:
+        - 32,000 GPU node hours
+
+- title: Research Interests
+  type: list
+  contents:
+    - Hadron structure from lattice QCD
+    - Parton distributions and generalized parton distributions
+    - Hadron spectroscopy
