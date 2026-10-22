@@ -1,158 +1,158 @@
 {
   "basics": {
     "name": "Qi Shi",
-    "label": "Ph.D. Candidate",
-    "image": "",
-    "email": "qshi1@bnl.gov",
-    "phone": "",
-    "url": "https://Kiki1643.github.io",
-    "summary": "A Chinese Ph.D. candidate in the field of Quantum Chromodynamics and Lattice Quantum Chromodynamics.",
+    "label": "Postdoctoral Scholar in Physics",
+    "email": "qshi3@kent.edu",
+    "url": "https://kiki1643.github.io",
+    "summary": "Lattice QCD researcher studying hadron structure, including form factors, parton distributions, and generalized parton distributions.",
     "location": {
-      "address": "Brookhaven National Laboratory",
-      "postalCode": "P.O. Box 5000",
-      "city": "Upton",
-      "countryCode": "US",
-      "region": "New York"
+      "city": "Kent",
+      "region": "Ohio",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Inspire",
+        "network": "INSPIRE",
         "username": "Qi Shi",
-        "url": "https://inspirehep.net/authors/1908133?ui-citation-summary=true"
+        "url": "https://inspirehep.net/authors/1908133"
       }
     ]
   },
+  "work": [
+    {
+      "name": "Kent State University, Department of Physics",
+      "position": "Postdoctoral Scholar",
+      "url": "https://www.kent.edu/physics",
+      "startDate": "2025-09"
+    },
+    {
+      "name": "Brookhaven National Laboratory, Physics Department",
+      "position": "Visitor",
+      "url": "https://www.bnl.gov/physics/",
+      "startDate": "2022-09",
+      "endDate": "2025-09"
+    }
+  ],
   "education": [
     {
       "institution": "Central China Normal University",
       "location": "Wuhan, China",
       "url": "https://english.ccnu.edu.cn/",
       "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "2021-09-01",
-      "endDate": "2025-07-01"
+      "studyType": "Ph.D.",
+      "startDate": "2021-09",
+      "endDate": "2025-06"
+    },
+    {
+      "institution": "Central China Normal University",
+      "location": "Wuhan, China",
+      "url": "https://english.ccnu.edu.cn/",
+      "area": "Physics",
+      "studyType": "M.S.",
+      "startDate": "2018-09",
+      "endDate": "2021-06"
     },
     {
       "institution": "Northeast Normal University",
       "location": "Changchun, China",
       "url": "https://en.nenu.edu.cn/",
       "area": "Physics",
-      "studyType": "Bachelor",
-      "startDate": "2014-09-01",
-      "endDate": "2018-07-01"
+      "studyType": "B.S.",
+      "startDate": "2014-09",
+      "endDate": "2018-06"
     }
   ],
   "publications": [
     {
-      "name": "Fluctuations and correlations of net baryon number, electric charge and strangeness in a background magnetic field",
-      "publisher": "H-T Ding, S-T Li, Q Shi, X-D Wang",
-      "releaseDate": "2021-06-01",
-      "url": "https://link.springer.com/article/10.1140/epja/s10050-021-00519-3"
+      "name": "Skewness-dependent moments of the pion GPD from nonlocal quark-bilinear correlators",
+      "publisher": "Xiang Gao, Swagato Mukherjee, Qi Shi, Fei Yao, Yong Zhao",
+      "releaseDate": "2026-01-20",
+      "url": "https://journals.aps.org/prd/abstract/10.1103/hrb2-47zm",
+      "summary": "Phys. Rev. D 113, 014505 (2026)."
     },
     {
-      "name": "QCD phase structure in strong magnetic fields",
-      "publisher": "H-T Ding, S-T Li, Q Shi, A Tomiya, X-D Wang, Y Zhang",
-      "releaseDate": "2020-11-10",
-      "url": "https://arxiv.org/abs/2011.04870"
+      "name": "Probing Meson Structure via Lattice QCD: Electromagnetic Form Factor at High Momentum Transfer and Generalized Parton Distribution",
+      "publisher": "Heng-Tong Ding, Xiang Gao, Andrew Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Rui Zhang, Yong Zhao",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.22323/1.517.0086",
+      "summary": "PoS SPIN2025, 086 (2026)."
     },
     {
-      "name": "Photophysical properties of chiral covalent organic cages",
-      "publisher": "Qi Shi, Meng Sun, Jinmei Tian, Wenjie Zhang, Guochun Yang",
-      "releaseDate": "2017-11-15",
-      "url": "https://doi.org/10.1016/j.comptc.2017.09.016"
-    },
-    {
-      "name": "Transversity PDFs of the proton from lattice QCD with physical quark masses",
-      "publisher": "Xiang Gao, Andrew D Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
-      "releaseDate": "2023-10-29",
-      "url": "https://arxiv.org/abs/2310.19047"
-    },
-    {
-      "name": "Lattice QCD results for Kaon electromagnetic form factor up to Q2 10 GeV2",
-      "publisher": "Heng-Tong Ding, Xiang Gao, Andrew Hanlon, Swagato Mukherjee, Philipp Scior, Qi Shi, Sergey Syritsyn, Yong Zhao",
-      "releaseDate": "2022-04-29",
-      "url": "https://ui.adsabs.harvard.edu/abs/2022APS..APRW04007D/abstract"
-    },
-    {
-      "name": "Lattice QCD predictions of pion and kaon electromagnetic form factors at large momentum transfer",
-      "publisher": "Heng-Tong Ding, Xiang Gao, Andrew D Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
-      "releaseDate": "2023-08-01",
-      "url": "https://inspirehep.net/files/222f121547a65cddfdabfd26eb4f8a67"
-    },
-    {
-      "name": "Three-dimensional Imaging of Pion using Lattice QCD: Generalized Parton Distributions",
-      "publisher": "Ding, Heng-Tong, Gao, Xiang, Mukherjee, Swagato, Petreczky, Peter, Shi, Qi, Syritsyn, Sergey, Zhao, Yong",
-      "releaseDate": "2024-07-03",
-      "url": "https://arxiv.org/abs/2407.03516"
-    },
-    {
-      "name": "Lattice QCD calculation of the pion generalized parton distribution",
-      "publisher": "Ding, Heng-Tong, Gao, Xiang, Mukherjee, Swagato, Petreczky, Peter, Shi, Qi, Syritsyn, Sergey, Zhao, Yong",
-      "releaseDate": "2024-06-01",
-      "url": "https://pos.sissa.it/456/024/pdf"
+      "name": "Three-dimensional imaging of pion using lattice QCD: generalized parton distributions",
+      "publisher": "Heng-Tong Ding, Xiang Gao, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
+      "releaseDate": "2025-02-11",
+      "url": "https://link.springer.com/article/10.1007/JHEP02(2025)056",
+      "summary": "JHEP 02, 056 (2025)."
     },
     {
       "name": "QCD Predictions for Meson Electromagnetic Form Factors at High Momenta: Testing Factorization in Exclusive Processes",
       "publisher": "Heng-Tong Ding, Xiang Gao, Andrew D. Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Rui Zhang, Yong Zhao",
-      "releaseDate": "2024-04-01",
-      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.181902"
+      "releaseDate": "2024-10-29",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.181902",
+      "summary": "Phys. Rev. Lett. 133, 181902 (2024)."
+    },
+    {
+      "name": "Transversity PDFs of the proton from lattice QCD with physical quark masses",
+      "publisher": "Xiang Gao, Andrew D. Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
+      "releaseDate": "2024",
+      "url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.054506",
+      "summary": "Phys. Rev. D 109, 054506 (2024)."
+    },
+    {
+      "name": "Lattice QCD calculation of the pion generalized parton distribution",
+      "publisher": "Heng-Tong Ding, Xiang Gao, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.22323/1.456.0024",
+      "summary": "PoS SPIN2023, 024 (2024)."
+    },
+    {
+      "name": "Lattice QCD predictions of pion and kaon electromagnetic form factors at large momentum transfer",
+      "publisher": "Heng-Tong Ding, Xiang Gao, Andrew Hanlon, Swagato Mukherjee, Peter Petreczky, Qi Shi, Sergey Syritsyn, Yong Zhao",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.22323/1.453.0320",
+      "summary": "PoS LATTICE2023, 320 (2024)."
+    },
+    {
+      "name": "Fluctuations and correlations of net baryon number, electric charge and strangeness in a background magnetic field",
+      "publisher": "Heng-Tong Ding, Sheng-Tai Li, Qi Shi, Xiao-Dan Wang",
+      "releaseDate": "2021",
+      "url": "https://link.springer.com/article/10.1140/epja/s10050-021-00519-3",
+      "summary": "Eur. Phys. J. A 57, 202 (2021)."
+    },
+    {
+      "name": "QCD phase structure in strong magnetic fields",
+      "publisher": "Heng-Tong Ding, Sheng-Tai Li, Qi Shi, Akio Tomiya, Xiao-Dan Wang, Yu Zhang",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.5506/APHYSPOLBSUPP.14.403",
+      "summary": "Acta Phys. Polon. Supp. 14, 403 (2021)."
+    }
+  ],
+  "awards": [
+    {
+      "title": "DOE Mission Science Allocation Award (PI): Nucleon Generalized Parton Distributions from lattice QCD at Physical Masses",
+      "date": "2026",
+      "awarder": "NERSC Allocation Year 2026",
+      "summary": "63,000 GPU node hours (January 2026–January 2027)."
+    },
+    {
+      "title": "DOE Mission Science Allocation Award (PI): Computing Pion Generalized Parton Distributions at Non-zero Skewness",
+      "date": "2025",
+      "awarder": "NERSC Allocation Year 2025",
+      "summary": "32,000 GPU node hours (January 2025–January 2026)."
     }
   ],
   "skills": [
     {
-      "name": "Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Numpy",
-        "Pandas",
-        "Gnuplot",
-        "WebPlotDigitizer"
-      ]
+      "name": "Lattice QCD and HPC",
+      "keywords": ["Qlua (Qlu+CUDA)", "Grid", "NERSC", "Slurm"]
     },
     {
-      "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Python",
-        "Jupyter",
-        "Mathematica",
-        "Bash",
-        "LaTeX"
-      ]
-    },
-    {
-      "name": "Quantum Chromodynamics",
-      "level": "Master",
-      "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Lattice QCD",
-        "QCD"
-      ]
+      "name": "Programming and analysis",
+      "keywords": ["Python", "Bash", "NumPy", "SciPy", "pandas", "Matplotlib"]
     }
   ],
   "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Chromodynamics",
-        "Lattice Quantum Chromodynamics",
-        "Quantum Information"
-      ]
-    }
+    {"language": "Chinese", "fluency": "Native"},
+    {"language": "English", "fluency": "Fluent"}
   ]
 }
